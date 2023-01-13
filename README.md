@@ -10,7 +10,7 @@ Responsive design for optimal viewing on all device sizes.
 # Installation
 To get the application up and running on your local machine, please follow these steps:
 
-1) Clone the repository to your local machine using the command git clone https://github.com/your-repository-link.git.
+1) Clone the repository to your local machine using the command git clone https://github.com/fsmasood/Quiz-App-with-React-Asp.Net-Core-API .
 2) Open the command prompt in the root folder of the application and run the command npm install to install all necessary dependencies.
 3) Run the command npm start to start the application.
 4) The application should now be running on http://localhost:3000/
